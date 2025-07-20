@@ -27,6 +27,11 @@ Make sure you have the following installed:
 
 ---
 
+📸 Screenshot
+<img width="717" height="1253" alt="image" src="https://github.com/user-attachments/assets/fb742fb6-a725-42bc-878c-815a0fc01bcd" />
+<img width="786" height="1259" alt="image" src="https://github.com/user-attachments/assets/304066aa-569e-4b23-b885-02584aeeb0f2" />
+
+
 ### 🚀 Running the App
 
 ```bash
