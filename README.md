@@ -28,6 +28,7 @@ Make sure you have the following installed:
 ---
 
 📸 Screenshot
+
 <img width="717" height="1253" alt="image" src="https://github.com/user-attachments/assets/fb742fb6-a725-42bc-878c-815a0fc01bcd" />
 
 ### 🚀 Running the App
