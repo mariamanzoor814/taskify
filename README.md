@@ -10,7 +10,6 @@ Taskify is a modern and minimalistic task management app built with Flutter. It 
 - ⏰ Track task deadlines
 - ✅ Mark tasks as complete
 - 💡 Clean and intuitive UI
-- 🔔 (Optional) Notification support with Firebase
 
 ---
 
